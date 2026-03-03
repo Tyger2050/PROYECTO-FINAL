@@ -1,5 +1,7 @@
 # EduCloud-AI-Hub
+# Final Project: EduCloud-AI Hub
 
+Este repositorio corresponde al proyecto final "Final Project" para el curso [PYTHON].
 **EduCloud-AI Hub** es un ecosistema diseñado para integrar servicios de computación en la nube e Inteligencia Artificial en entornos educativos modernos. Este proyecto busca cerrar la brecha digital proporcionando arquitecturas de referencia y guías prácticas para educadores e ingenieros.
 
 ## Objetivos del Proyecto
